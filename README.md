@@ -1,5 +1,5 @@
 ![Collabify](https://github.com/tymoorej/Collabify/blob/uiRedesign/public/colllabify-logo.png)
-The Spotify party playlist collabortation app!
+The Spotify party playlist collaboration app!
 =============
 
 ### Use Case
